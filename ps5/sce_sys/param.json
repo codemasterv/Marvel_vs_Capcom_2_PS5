@@ -1,0 +1,49 @@
+{
+  "addcont": {
+    "serviceIdForSharing": [
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   "
+    ]
+  },
+  "ageLevel": {
+    "default": 0
+  },
+  "applicationCategoryType": 0,
+  "applicationDrmType": "standard",
+  "attribute": 0,
+  "attribute2": 0,
+  "attribute3": 524352,
+  "conceptId": "30068",
+  "contentBadgeType": 1,
+  "contentId": "UP0102-PPSA30068_00-MVC2RECOMP000000",
+  "contentVersion": "01.000.000",
+  "downloadDataSize": 256,
+  "gameIntent": {
+    "permittedIntents": [
+      {
+        "intentType": "launchActivity"
+      }
+    ]
+  },
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "Marvel vs. Capcom 2: New Age of Heroes"
+    }
+  },
+  "masterVersion": "01.00",
+  "pubtools": {
+    "creationDate": "1970-01-01 00:00:00",
+    "loudnessSnd0": "-28.00",
+    "toolVersion": "2.79"
+  },
+  "requiredSystemSoftwareVersion": "0x0000000000000000",
+  "sdkVersion": "0x0000000000000000",
+  "titleId": "PPSA30068",
+  "versionFileUri": "                                                                                                                                                                                                                                                               "
+}
