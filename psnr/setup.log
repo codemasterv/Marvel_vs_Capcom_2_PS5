@@ -1,0 +1,16 @@
+psnr setup Thu 11/12/2026 14:51:23.26 
+Found Go Programming Language [GoLang.Go] Version 1.27.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://go.dev/dl/go1.27.4.windows-amd64.msi
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+Start-Process : This command cannot be run due to the error: No application is associated with the specified file for 
+this operation.
+At line:1 char:1
++ Start-Process -Verb RunAs -Wait cmd -ArgumentList '/c netsh advfirewa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Start-Process], InvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperationException,Microsoft.PowerShell.Commands.StartProcessCommand
+ 
